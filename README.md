@@ -1,5 +1,3 @@
-![Stevens's GitHub stats](https://github-readme-stats.vercel.app/api?username=Steven-McCombe&show_icons=true&theme=transparent)
-
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <a href="https://twitter.com/st_mccombe">
