@@ -16,7 +16,6 @@
   <img align="left" alt="Stevens Codewars Account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />
 </a>
 <br />
-<img align="right" alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=Steven-McCombe&show_icons=true&theme=transparent" />
 
 ### I am Steven McCombe
 - Technology enthusiast.
